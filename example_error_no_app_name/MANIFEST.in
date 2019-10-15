@@ -1,0 +1,2 @@
+recursive-include example_error_no_app_name/static *
+recursive-include example_error_no_app_name/templates *
